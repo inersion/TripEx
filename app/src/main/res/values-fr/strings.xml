@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="insert_failed">Insertion a échoué:</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="button_delete">Effacer</string>
+    <string name="confirm_message">Cela supprimera définitivement le voyage.</string>
+    <string name="confirm_title">Êtes-Vous Sûr?</string>
+    <string name="hint_airfare">Coût du Billet D\'Avion (USD)</string>
+    <string name="hint_depart">Date de Départ</string>
+    <string name="hint_from">Départ</string>
+    <string name="hint_hotel">Coût de L\'Hôtel (USD)</string>
+    <string name="hint_name_required">Nom du Voyage (Requis)</string>
+    <string name="hint_rental">Coût de L\'Automobile (USD)</string>
+    <string name="hint_to">Arrivée</string>
+    <string name="hint_return">Date de Retour</string>
+    <string name="invalid_delete_uri">Suppression invalide Uri:</string>
+    <string name="invalid_insert_uri">Insert non valide Uri:</string>
+    <string name="invalid_query_uri">Requête non valide Uri:</string>
+    <string name="invalid_update_uri">Mise à jour incorrecte Uri:</string>
+    <string name="label_airfare">Coût du Billet D\'Avion (USD):</string>
+    <string name="label_depart">Date de Départ:</string>
+    <string name="label_from">Départ:</string>
+    <string name="label_hotel">Coût de L\'Hôtel (USD):</string>
+    <string name="label_name">Nom du Voyage:</string>
+    <string name="label_rental">Coût de L\'Automobile (USD):</string>
+    <string name="label_return">Date de Retour:</string>
+    <string name="label_to">Arrivée:</string>
+    <string name="label_totalcost">Coût total du voyage (USD):</string>
+    <string name="lanugage_english">Anglais</string>
+    <string name="lanugage_french">Français</string>
+    <string name="lanugage_spanish">Espanol</string>
+    <string name="menuitem_delete">Effacer</string>
+    <string name="menuitem_edit">Modifier</string>
+    <string name="trip_added">Voyage ajouté avec succès</string>
+    <string name="trip_not_added">Le voyage n\'a pas été ajouté en raison d\'une erreur</string>
+    <string name="trip_not_updated">Le voyage n\'a pas été mis à jour en raison d\'une erreur</string>
+    <string name="trip_updated">Voyage mis à jour</string>
+</resources>

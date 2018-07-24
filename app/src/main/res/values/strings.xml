@@ -1,0 +1,38 @@
+<resources>
+   <string name="app_name" translatable="false">TripEx</string>
+   <string name="menuitem_edit">Edit</string>
+   <string name="menuitem_delete">Delete</string>
+   <string name="hint_name_required">Trip Name (Required)</string>
+   <string name="hint_from">From (Origin)</string>
+   <string name="hint_to">To (Destination)</string>
+   <string name="hint_depart">Departure Date</string>
+   <string name="hint_return">Return Date</string>
+   <string name="hint_airfare">Cost of Airfare</string>
+   <string name="hint_hotel">Cost of Hotel</string>
+   <string name="hint_rental">Cost of Rental Transportation</string>
+   <string name="label_name">Trip Name:</string>
+   <string name="label_from">From:</string>
+   <string name="label_to">To:</string>
+   <string name="label_depart">Departure Date:</string>
+   <string name="label_return">Return Date:</string>
+   <string name="label_airfare">Cost of Airfare:</string>
+   <string name="label_hotel">Cost of Hotel:</string>
+   <string name="label_rental">Cost of Rental Transportation:</string>
+   <string name="label_totalcost">Total Cost of Trip:</string>
+   <string name="lanugage_english">English</string>
+   <string name="lanugage_french">French</string>
+   <string name="lanugage_spanish">Spanish</string>
+   <string name="confirm_title">Are You Sure?</string>
+   <string name="confirm_message">This will permanently delete the trip.</string>
+   <string name="button_cancel">Cancel</string>
+   <string name="button_delete">Delete</string>
+   <string name="trip_added">Trip added successfully</string>
+   <string name="trip_not_added">Trip was not added due to an error</string>
+   <string name="trip_updated">Trip updated</string>
+   <string name="trip_not_updated">Trip was not updated due to an error</string>
+   <string name="invalid_query_uri">Invalid query Uri: </string>
+   <string name="invalid_insert_uri">Invalid insert Uri: </string>
+   <string name="invalid_update_uri">Invalid update Uri: </string>
+   <string name="invalid_delete_uri">Invalid delete Uri: </string>
+   <string name="insert_failed">Insert failed:</string>
+</resources>

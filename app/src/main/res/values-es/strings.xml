@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menuitem_edit">Editar</string>
+    <string name="menuitem_delete">Borrar</string>
+    <string name="hint_name_required">Viaje Nombre (Necesario)</string>
+    <string name="hint_from">Salida</string>
+    <string name="hint_to">Llegada</string>
+    <string name="hint_depart">Fecha de salida</string>
+    <string name="hint_return">Fecha de regreso</string>
+    <string name="hint_hotel">Costo de Hotel (USD)</string>
+    <string name="hint_rental">Costo de Auto (USD)</string>
+    <string name="hint_airfare">Costo de Vuelo (USD)</string>
+    <string name="label_name">Viaje Nombre:</string>
+    <string name="label_from">Salida:</string>
+    <string name="label_to">Llegada:</string>
+    <string name="label_depart">Fecha de salida:</string>
+    <string name="label_return">Fecha de regreso:</string>
+    <string name="label_airfare">Costo de Vuelo (USD):</string>
+    <string name="label_hotel">Costo de Hotel (USD):</string>
+    <string name="label_rental">Costo de Auto (USD):</string>
+    <string name="label_totalcost">Total Costo de Viage (USD):</string>
+    <string name="lanugage_english">Inglés</string>
+    <string name="lanugage_french">Francés</string>
+    <string name="lanugage_spanish">Español</string>
+    <string name="confirm_title">Estás seguro?</string>
+    <string name="confirm_message">Esto eliminará permanentemente el viaje.</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_delete">Borrar</string>
+    <string name="trip_added">Viaje fue agregado exitosamente</string>
+    <string name="trip_not_added">El viaje no fue agregado debido a un error</string>
+    <string name="trip_updated">Viaje actualizado</string>
+    <string name="trip_not_updated">El viaje no se actualizó debido a un error</string>
+    <string name="invalid_query_uri">Consulta inválida Uri:</string>
+    <string name="invalid_insert_uri">Inserción inválida Uri:</string>
+    <string name="invalid_update_uri">Actualización inválida Uri:</string>
+    <string name="invalid_delete_uri">Eliminación no válida Uri:</string>
+    <string name="insert_failed">Inserción fallida:</string>
+</resources>

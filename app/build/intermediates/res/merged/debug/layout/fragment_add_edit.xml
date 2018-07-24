@@ -1,0 +1,142 @@
+<FrameLayout
+   xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent">
+
+   <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+      <LinearLayout
+         android:orientation="vertical"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content">
+
+         <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nameTextInputLayout">
+
+            <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/editText"
+               android:hint="@string/hint_name_required"
+               android:singleLine="true"
+               android:imeOptions="actionNext"
+               android:inputType="textCapWords"/>
+         </android.support.design.widget.TextInputLayout>
+
+         <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/fromTextInputLayout">
+
+            <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/editText2"
+               android:hint="@string/hint_from"
+               android:singleLine="true"
+               android:imeOptions="actionNext"/>
+         </android.support.design.widget.TextInputLayout>
+
+         <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/toTextInputLayout">
+
+            <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/editText3"
+               android:hint="@string/hint_to"
+               android:singleLine="true"
+               android:imeOptions="actionNext" />
+         </android.support.design.widget.TextInputLayout>
+
+         <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/departTextInputLayout">
+
+            <EditText
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/editText4"
+               android:hint="@string/hint_depart"
+               android:singleLine="true"
+               android:imeOptions="actionNext" />
+         </android.support.design.widget.TextInputLayout>
+
+         <android.support.design.widget.TextInputLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:id="@+id/returnTextInputLayout">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText5"
+                android:hint="@string/hint_return"
+                android:singleLine="true"
+                android:imeOptions="actionNext" />
+         </android.support.design.widget.TextInputLayout>
+
+         <android.support.design.widget.TextInputLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:id="@+id/airfareTextInputLayout">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText6"
+                android:hint="@string/hint_airfare"
+                android:singleLine="true"
+                android:inputType="numberDecimal"
+                android:imeOptions="actionNext" />
+         </android.support.design.widget.TextInputLayout>
+
+         <android.support.design.widget.TextInputLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:id="@+id/hotelTextInputLayout">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText7"
+                android:hint="@string/hint_hotel"
+                android:singleLine="true"
+                android:inputType="numberDecimal"
+                android:imeOptions="actionNext" />
+         </android.support.design.widget.TextInputLayout>
+
+         <android.support.design.widget.TextInputLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:id="@+id/rentalTextInputLayout">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText8"
+                android:hint="@string/hint_rental"
+                android:singleLine="true"
+                android:inputType="numberDecimal"
+                android:imeOptions="actionNext" />
+         </android.support.design.widget.TextInputLayout>
+
+      </LinearLayout>
+   </ScrollView>
+
+   <android.support.design.widget.FloatingActionButton
+      android:id="@+id/saveFloatingActionButton"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="top|end"
+      android:layout_margin="@dimen/fab_margin"
+      android:src="@drawable/ic_save_24dp"/>
+
+</FrameLayout>

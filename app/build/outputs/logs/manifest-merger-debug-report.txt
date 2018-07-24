@@ -1,0 +1,78 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml
+		INJECTED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml
+		INJECTED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml
+		INJECTED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:8:5-31:19
+MERGED from [com.android.support:design:23.0.1] C:\Users\PS\.android\build-cache\e8ff75b717de68adf25be125b2df79657fe79c13\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\PS\.android\build-cache\2e0d9c36c0757937143223e2574678e9a01aa950\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\PS\.android\build-cache\b0a31362e1773219cf553699343c83294e674e03\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.inersion.tripex.MainActivity
+ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:15:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:21:27-74
+provider#com.inersion.tripex.sampledata.TripExContentProvider
+ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:25:9-30:20
+	android:authorities
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:27:13-65
+	android:enabled
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:28:13-35
+	android:exported
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml:26:13-80
+uses-sdk
+INJECTED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.0.1] C:\Users\PS\.android\build-cache\e8ff75b717de68adf25be125b2df79657fe79c13\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\PS\.android\build-cache\2e0d9c36c0757937143223e2574678e9a01aa950\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\PS\.android\build-cache\e887c2062b808cbf0d087e5134c00681424ac3fb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\PS\.android\build-cache\b0a31362e1773219cf553699343c83294e674e03\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml
+		INJECTED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml
+		INJECTED from C:\current Apple Files\Apple Files\mycoursework\ucsd\App Production\Summer 2018\TripEx\app\src\main\AndroidManifest.xml

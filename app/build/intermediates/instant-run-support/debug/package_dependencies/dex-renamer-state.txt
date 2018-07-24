@@ -1,0 +1,19 @@
+#Sat Jul 21 22:48:26 PDT 2018
+renamed.5=classes2.dex
+renamed.4=classes4.dex
+renamed.3=classes5.dex
+renamed.2=classes6.dex
+renamed.1=classes.dex
+renamed.0=classes3.dex
+base.5=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5f820d03f3c227cca7475004c1badf631237f94f
+base.4=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f0b2618bfef1ffdf3ad3e4ac41c7fe1c9d192e63
+base.3=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_92b151f48f3e521fa064b93e548f9eb181147c7c
+base.2=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_5c9410ada1720a7f69567078fdd2e52ee2fd1c3f
+base.1=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2f6bd14d907d3b82ef7e54de48ef1a232edf3ce7
+base.0=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_72f7ebf33e44d40246be3c336aff43cfa9db458d
+file.5=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5f820d03f3c227cca7475004c1badf631237f94f\\classes.dex
+file.4=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f0b2618bfef1ffdf3ad3e4ac41c7fe1c9d192e63\\classes.dex
+file.3=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_92b151f48f3e521fa064b93e548f9eb181147c7c\\classes.dex
+file.2=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_5c9410ada1720a7f69567078fdd2e52ee2fd1c3f\\classes.dex
+file.1=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2f6bd14d907d3b82ef7e54de48ef1a232edf3ce7\\classes.dex
+file.0=C\:\\current Apple Files\\Apple Files\\mycoursework\\ucsd\\App Production\\Summer 2018\\TripEx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_72f7ebf33e44d40246be3c336aff43cfa9db458d\\classes.dex
